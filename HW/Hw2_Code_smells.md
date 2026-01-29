@@ -1,5 +1,5 @@
-Code Smell: Speculative Generality
-Definition: There’s an unused class, method, field or parameter.
+#Code Smell: Speculative Generality #
+Definition: There’s an unused class, method, field or parameter. 
 How does it occur?: เขียนโค้ดเผื่อแล้วลืมเรียกใช้
 How to fix:
 - Unused abstract classes: Collapse hierachy
