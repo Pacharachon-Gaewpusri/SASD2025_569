@@ -1,0 +1,14 @@
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\bin\Debug\net8.0\ClassDesign.exe
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\bin\Debug\net8.0\ClassDesign.deps.json
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\bin\Debug\net8.0\ClassDesign.runtimeconfig.json
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\bin\Debug\net8.0\ClassDesign.dll
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\bin\Debug\net8.0\ClassDesign.pdb
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.AssemblyInfoInputs.cache
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.AssemblyInfo.cs
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.csproj.CoreCompileInputs.cache
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.dll
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\refint\ClassDesign.dll
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.pdb
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ClassDesign.genruntimeconfig.cache
+D:\SASD2025\VSProject_569\SASD2025\ClassDesign\obj\Debug\net8.0\ref\ClassDesign.dll
