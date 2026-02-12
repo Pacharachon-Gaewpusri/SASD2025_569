@@ -1,3 +1,9 @@
-Utility Class:
-Mutable Class:
-Immutable Class:
+##Utility Class:##
+System.Math: Provides constants and static methods for trigonometric, logarithmic, and other common mathematical functions.
+System.IO.File: Provides static methods for the creation, copying, deletion, moving, and opening of files.
+System.Linq.Enumerable: Contains the static extension methods that power LINQ (e.g., .Select(), .Where()).
+System.Convert: Used to convert a base data type to another base data type.
+System.Environment: Provides information about, and means to manipulate, the current environment and platform.
+
+##Mutable Class:##
+##Immutable Class:##
