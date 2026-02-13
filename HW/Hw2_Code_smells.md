@@ -2,7 +2,7 @@ Code Smell: Speculative Generality
 
 Definition: There’s an unused class, method, field or parameter. 
 
-How does it occur?: เขียนโค้ดเผื่อแล้วลืมเรียกใช้
+How does it occur?: There’s an unused class, method, field or parameter.
 
 How to fix:
 
